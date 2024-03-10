@@ -10,7 +10,7 @@ class increase{
     value=10;
     }
     
-    increase operator++(int){
+    increase operator++(int){ //post increment
     value=value+5;
     }
     
