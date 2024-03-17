@@ -5,4 +5,6 @@
 3. friend function
 4. operator overloading
 5. function overloading
-6. inheritance day1
+6. inheritance(basic)
+7. single inheritance
+8. multilevel inheritance 
