@@ -1,4 +1,4 @@
-#Author : nishj347 @github
+//Author : nishj347 @github
 #include <iostream>
 using namespace std;
 
