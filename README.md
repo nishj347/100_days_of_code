@@ -1,10 +1,4 @@
 # 100_days_of_code     
-## on going stuff
-1. classes and objects.
-2. stack concept
-3. friend function
-4. operator overloading
-5. function overloading
-6. inheritance(basic)
-7. single inheritance
-8. multilevel inheritance 
+it is showing till day 23 but in assignment folder there will be 50 questions
+that will be counted as further days :)
+me new here so, bear with it ^-^
