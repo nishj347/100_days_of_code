@@ -1,5 +1,5 @@
 //Author:nishj347 @github
-/*Create a class Rectangle with private data members length and width. Define two friend functions calculateArea() and calculatePerimeter() that calculate and display the area and perimeter of the rectangle respectively.*/
+//Create a class Rectangle with private data members length and width. Define two friend functions calculateArea() and calculatePerimeter() that calculate and display the area and perimeter of the rectangle respectively.*/
 
 #include<iostream>
 using namespace std;
